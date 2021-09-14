@@ -11,5 +11,5 @@ Run the getlocation.sh script with IP address as an arguement
 $chmod +x getlocation.sh
 $./getlocation.sh [IP]
 
-The results are saved in the log file.
+The results are saved in the log file
 --------------------------------------------------------
