@@ -2,15 +2,11 @@
 Get location of provided IP addresses using this script.
 --------------------------------------------------------
 
-PREREQUISITES:
+#Required package:
 
-Run the requirements.sh script
+  $sudo apt install jq -y
 
-  $chmod +x requirements.sh
-
-  $./requirements.sh
-
-Run the getlocation.sh script with IP address as an arguement
+Run the getlocation.sh script with IP address as an arguement:
 
   $chmod +x getlocation.sh
 
