@@ -24,6 +24,7 @@ then
 	ip=`echo $x | jq ".query" -r`
 
 	echo -e "Country : $co\nCountry Code : $cc\nRegion : $re\nRegion Name : $rn\nCity : $ci\nZip Code : $zi\nLattitude : $lat\nLongitude : $lon\nTime Zone : $ti\nISP : $isp\nIP : $ip" | tee log
+	echo "Information for IP $1 has been saved to log file"
 
 else
 	echo "The operation was unsuccessful"
