@@ -2,6 +2,8 @@
 Get location of provided IP addresses using this script.
 --------------------------------------------------------
 
+└─# git clone https://github.com/DGStyles1/Get-Location
+
 Required package:
 
 └─# sudo apt install jq -y
