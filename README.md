@@ -16,6 +16,6 @@ Run the getlocation.sh script with IP address as an arguement:
 
 └─# ./getlocation.sh [IP]
 
-The results are saved in the log file.
+The results will be saved in the log file.
 
 --------------------------------------------------------
